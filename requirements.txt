@@ -1,0 +1,8 @@
+pymupdf
+duckdb
+chromadb
+sentence-transformers
+google-genai
+pandas
+requests
+jupyter
